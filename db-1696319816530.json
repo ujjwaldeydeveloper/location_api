@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Arashiyama Bamboo Grove",
+      "url": "https://cdn-images-1.medium.com/max/2000/1*vdJuSUKWl_SA9Lp-32ebnA.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Mount Fuji",
+      "url": "https://img3.goodfon.ru/original/1920x1080/a/a5/fuji-peizazh-iaponiia-gora-tsvety-nebo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kiyomizu-dera",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kiyomizu-dera_in_Kyoto-r.jpg/800px-Kiyomizu-dera_in_Kyoto-r.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kinkaku-ji",
+      "url": "https://www.asisbiz.com/Japan/Kinkaku-ji/images/0-Postcards-Kinkaku-ji-Winter.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Odaiba",
+      "url": "https://www.yhunter.ru/wp-content/uploads/2015/06/DSC1876.jpg"
+    }
+  ]
+}
