@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Mount Fuji",
+        "url": "https://lrn-fluttercrashcourse.b-cdn.net/course_assets/fuji@3x.jpg",
+        "user_itinerary_summary": "Day 1: 9AM - 1:30PM",
+        "tour_package_name": "Standard Package"
+    },
+    {
+        "id": 2,
+        "name": "Arashiyama Bamboo Grove",
+        "url": "https://lrn-fluttercrashcourse.b-cdn.net/course_assets/arashiyama@3x.jpg",
+        "user_itinerary_summary": "Day 1: 2PM - 3:30PM",
+        "tour_package_name": "Standard Package"
+    },
+    {
+        "id": 3,
+        "name": "Kiyomizu-dera",
+        "url": "https://lrn-fluttercrashcourse.b-cdn.net/course_assets/kiyomizu-dera@3x.png",
+        "user_itinerary_summary": "Day 1: 4PM - 5:00PM",
+        "tour_package_name": "Standard Package"
+    },
+    {
+        "id": 4,
+        "name": "Kinkaku-ji",
+        "url": "https://lrn-fluttercrashcourse.b-cdn.net/course_assets/kinkaku-ji@3x.jpg",
+        "user_itinerary_summary": "Day 2: 9AM - 11:30AM",
+        "tour_package_name": "Premium Package"
+    }
+]
